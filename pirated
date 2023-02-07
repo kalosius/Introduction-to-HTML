@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Cohort 13</title>
+    <link rel="stylesheet" href="css/cohort13.css" />
+
+</head>
+
+<body>
+    <p class="odd">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam placeat
+        consectetur quaerat animi, libero corrupti beatae qui reprehenderit
+        laboriosam nostrum porro, facilis rem temporibus repudiandae ex est harum
+        assumenda deserunt!
+    </p>
+
+    <p class="even">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam placeat
+        consectetur quaerat animi, libero corrupti beatae qui reprehenderit
+        laboriosam nostrum porro, facilis rem temporibus repudiandae ex est harum
+        assumenda deserunt!
+    </p>
+
+    <p class="odd">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam placeat
+        consectetur quaerat animi, libero corrupti beatae qui reprehenderit
+        laboriosam nostrum porro, facilis rem temporibus repudiandae ex est harum
+        assumenda deserunt!
+    </p>
+
+    <p class="even">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam placeat
+        consectetur quaerat animi, libero corrupti beatae qui reprehenderit
+        laboriosam nostrum porro, facilis rem temporibus repudiandae ex est harum
+        assumenda deserunt!
+    </p>
+
+    <p class="odd" id="charlesJones">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam placeat
+        consectetur quaerat animi, libero corrupti beatae qui reprehenderit
+        laboriosam nostrum porro, facilis rem temporibus repudiandae ex est harum
+        assumenda deserunt!
+    </p>
+
+    <p class="even">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam placeat
+        consectetur quaerat animi, libero corrupti beatae qui reprehenderit
+        laboriosam nostrum porro, facilis rem temporibus repudiandae ex est harum
+        assumenda deserunt!
+    </p>
+
+    <div id="kemigisha">
+        <p class="odd">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam itaque nesciunt obcaecati labore
+            animi, velit inventore libero ullam dolor sapiente beatae sed et assumenda nisi unde recusandae a corrupti
+            voluptas?</p>
+    </div>
+
+    <h1 id="uniqueHeader">Class asldjflasjdflajsdf</h1>
+
+    <h3>sdflsjdf;lasdjf</h3>
+</body>
+
+</html>
